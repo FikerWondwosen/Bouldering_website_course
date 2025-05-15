@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: sans-serif;
+    color: #1B281B;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin: 10px 64px;
+    
+    
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #4676A9;
+    font-size: 6rem;
+    text-align: center;
+    line-height: 1.1;
+}
+
+/* center the image */
+
+
+h2{
+    color: #CB731C;
+    font-size: 2rem;
+
+}
+
+h3 {
+    font-size: 1.5rem;
+
+}
+
+section {
+    margin-block: 60px;
+}
+
+footer {
+    background-color: #22466C;
+    color: #FFFFFF;
+    text-align: center;
+    border: 4px solid #6E84CF;
+}
